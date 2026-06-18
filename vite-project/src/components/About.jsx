@@ -34,9 +34,7 @@ function About() {
                         development and problem solving.
                         <br /><br />
                         I have experience with Java and web technologies such as
-                        HTML, CSS, and JavaScript, and I am currently learning
-                        React and Spring Boot to expand my skills toward
-                        full-stack development.
+                        HTML, CSS, and JavaScript,React and Spring Boot.
                         <br /><br />
                         Along with programming, I am passionate about visual
                         effects, photography, and video editing, where I combine

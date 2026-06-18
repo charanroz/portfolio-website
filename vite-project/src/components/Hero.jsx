@@ -4,8 +4,8 @@ function Hero() {
         <h1>Charan Anandharaj</h1>
         <h2>Java Developer | FX Artist | Photographer</h2>
         <p></p>
-        <button>View My Work</button>
-    </section>
+        <a href="#showreel">
+        <button type="button">View My Work</button></a></section>
     );
 }
 export default Hero;
